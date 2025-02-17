@@ -1,13 +1,15 @@
 ## Registry
 
-# Prerequisites
+# Pre-requisites
 Ensure you have the following installed:
 
-JDK 8 (for SOAP API compatibility)
-Apache Maven (for building the project)
-Apache Tomcat (or another servlet container)
-MySQL Database (for data storage)
-Database Setup
+JDK 8 (for SOAP API compatibility),
+Apache Maven (for building the project),
+Apache Tomcat (or another servlet container),
+MySQL Database (for data storage).
+
+
+## Database Setup
 Create a MySQL database named contacts_db (or any preferred name).
 
 # Run the following SQL script to create the contacts table:
@@ -48,8 +50,8 @@ http://localhost:8080/ContactRegistryApp
 
 ## Running the Application
 
-Run the Project Locally
-Ensure MySQL is running.
+Run the Project Locally,
+Ensure MySQL is running,
 Ensure Tomcat is running.
 
 ## License
